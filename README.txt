@@ -132,7 +132,110 @@ Ishika Prajapati DEV
 16:30
 - Pushed final changes to GitHub and confirmed deployment readiness.
 
-Admin User
+Kenan Karateke TEST
+2025-03-06-14-50-00
+
+Verified all functionalities; system stable, no errors.
+
+2025-03-06-15-20-00
+
+Added images to the project directory for product pages and branding.
+
+2025-03-06-15-50-00
+
+Worked with TESTER to create and integrate the SeedData file.
+
+2025-03-06-16-30-00
+
+Seeded the database with initial records (users, roles, product details).
+
+2025-03-06-16-45-00
+
+Started developing the About Us page.
+
+2025-03-06-17-00-00
+
+Integrated MVC components (controllers, views, models).
+
+2025-03-06-17-30-00
+
+Completed content writing for the About Us page.
+
+2025-03-06-17-45-00
+
+Replaced navbar text title with a logo for branding.
+
+2025-03-06-18-12-00
+
+Added the TrendIota logo to the About Us page.
+
+2025-03-06-18-30-00
+
+Finalized README.md with setup and development guidelines.
+
+2025-03-06-18-50-00
+
+Updated README.txt with additional setup details.
+
+2025-03-06-19-30-00
+
+Fixed minor typos in documentation.
+
+2025-03-06-23-40-00
+
+Merged latest updates from Dev to Main branch.
+
+2025-03-06-23-52-00
+
+Cleaned, built, and ran the project successfully.
+
+2025-03-07-09-50-00
+
+Cleaned and built TrendIota project (Debug Any CPU); build successful.
+
+2025-03-07 09-59-00
+
+Launched and tested application post-build.
+
+2025-03-07-00-51-00
+
+Implemented role-based access control (RBAC) in Program.cs.
+
+2025-03-07- 13-15-00
+
+Tested RBAC implementation; authentication/authorization working.
+
+2025-03-07-13-32-00
+
+Updated Purse Controller for RBAC permissions.
+
+2025-03-07-13-47-00
+
+Verified RBAC functionality in Purse Controller.
+
+2025-03-07-14-21-00
+
+Restricted Create, Edit, Delete options for users in Purse Directory Index View.
+
+2025-03-07-14-38-00
+
+Tested role-based UI restrictions; changes successfully applied.
+
+2025-03-07-14-54-00
+
+Full functionality test completed; no major issues detected.
+
+2025-03-07-02-57-00
+
+Configured user credentials and roles:
+
+Admin: Full access.
+
+Standard Users: Limited permissions.
+
+Guest (Read-Only): View-only access.
+
+ Admin User
  Username:kenan@trendIota.ca
  Password:Admin@1234
 
